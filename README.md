@@ -1,5 +1,4 @@
 # firstProject
 
 My first Githhub project
-
-Hello Subash?
+Making a list of ingredients in  a list.
